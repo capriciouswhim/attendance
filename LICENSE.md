@@ -4,6 +4,20 @@ Attendance is licensed under a
 Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
 See also <https://creativecommons.org/licenses/by-nc-nd/4.0/>.
 
+### Licenser's Note
+
+Since this software was developed for use in schools, I make the following statement:
+
+This software is __not__ open source software.  It requires a separate license to use in the operation of a school, or in any other commercial use.  The source code is, however, provided in this repositiory for the purposes of peer review, contributing (via pull requests), and to use as an example or exercise in the instruction of students.  You agree that the day-to-day operation of a school, even a public school, is a "commercial" use for the purposes of this license.  I agree that the use of this source code in a classroom (physical or virtual) as part of formal instruction is not "commercial".
+
+Nothing in this note is to be considersed a change to the terms of the following Creative Commons license.
+
+### Contributing
+
+The licenser welcomes contributions via pull requests.  Any such contributions incorporated into this software become
+the property of its owner and immediately fall under the terms of this license.  The only consideration or compensation
+provided will be a credit in CONTRIBUTORS.md.
+
 ## Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License
 
 By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
